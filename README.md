@@ -36,8 +36,8 @@ public class ProdutoDAO {
     public void removerProduto(int id) {
         // Lógica para remover um produto pelo ID
     }
-} ```
-
+} 
+```
 ### 👥 Equipe de Desenvolvimento
 * Enzo Luciano Duarte (RM: 552486)
 * Murilo Santini Chequer (RM: 550198)
